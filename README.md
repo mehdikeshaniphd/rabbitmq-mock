@@ -1,3 +1,4 @@
+test
 # RabbitMQ-mock
 
 [![Build Status](https://github.com/fridujo/rabbitmq-mock/actions/workflows/build.yml/badge.svg)](https://github.com/fridujo/rabbitmq-mock/actions)
